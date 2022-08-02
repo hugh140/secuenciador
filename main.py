@@ -10,7 +10,6 @@ pygame.display.set_mode(size)
 bb = mixer.Sound("Sounds/bombo.mp3")
 sn = mixer.Sound("Sounds/snare.mp3")
 hh = mixer.Sound("Sounds/hihat.wav")
-nd = mixer.Sound("Sounds/silencio.mp3")
 
 #Secuenciador ejemplo
 ritmo = [
